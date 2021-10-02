@@ -21,3 +21,9 @@
 <h2> 🥳 Authors </h2>
 
 + [@Felipe1496](https://github.com/Felipe1496)
+
+<h2> 📸 Screenshots </h2>
+
+<img src="assets/monsters_rolodex_page.png" alt="Home Page">
+
+<img src="assets/searching_monster.png" alt="Searching Monster">
