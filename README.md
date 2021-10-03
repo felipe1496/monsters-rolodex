@@ -1,5 +1,5 @@
 <h1 align="center"> Monsters Rolodex </h1>
-<p> Monsters Rolodex is web project developed to search among a group os monsters <p>
+<p> Monsters Rolodex is web project developed to search among a group of monsters <p>
   
 <h2> 💻 Languages and tecnologies used </h2>
 
