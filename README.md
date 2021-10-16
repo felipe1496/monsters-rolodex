@@ -1,5 +1,5 @@
 <h1 align="center"> Monsters Rolodex </h1>
-<p> Monsters Rolodex is web project developed to search among a group of monsters <p>
+<p> Monsters Rolodex is web project developed during the Complete React Developer in 2021 (w/ Redux, Hooks, GraphQL) course, to search among a group of monsters <p>
   
 <h2> 💻 Languages and tecnologies used </h2>
 
